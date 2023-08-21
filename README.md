@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Machine Learning, Dashboards**
+- 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **sallar.ba@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
