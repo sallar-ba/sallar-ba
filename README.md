@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sallar-ba&label=Profile%20views&color=0e75b6&style=flat" alt="sallar-ba" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Advanced Computer Vision**
 
 
 <h3 align="left">Connect with me:</h3>
